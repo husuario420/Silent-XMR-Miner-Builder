@@ -1,6 +1,6 @@
 # Silent XMR Miner Builder
 
-Welcome to the **Silent XMR Miner Builder**! This tool lets you create a stealthy miner for Monero (XMR), which runs quietly in the background and is designed to avoid detection by security software. The builder allows you to customize and build your own miner executable, which you can configure to mine using your specific Pastebin commands.
+Welcome to the **Silent XMR Miner Builder**! This tool lets you create a silent miner for Monero (XMR), which runs quietly in the background and is designed to avoid detection by security software. The builder allows you to customize and build your own miner executable, which you can configure to mine using your specific xmrig commands.
 
 
 ## Features:
