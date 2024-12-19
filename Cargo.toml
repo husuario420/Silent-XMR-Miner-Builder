@@ -1,0 +1,9 @@
+[package]
+name = "your_project_name"  # Replace with your project name
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = { version = "0.11", features = ["blocking"] }
+zip = "0.5"
+num_cpus = "1.13"
