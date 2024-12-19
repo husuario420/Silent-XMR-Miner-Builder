@@ -5,7 +5,7 @@ Welcome to the **Silent XMR Miner Builder**! This tool lets you create a silent 
 
 ## Features:
 - **Startup**: It adds miner to startup.
-- **Instalation**: Intsalls xmr rig if not yet intsalled.
+- **Instalation**: Intsalls xmrrig if not yet intsalled.
 - **3 Detection on virus tottal**: [https://www.virustotal.com/gui/file/fe23ce5ded67a1c139300b3068166dccf0bcd8c2350e3b882a4e756473651d57](https://www.virustotal.com/gui/file/fe23ce5ded67a1c139300b3068166dccf0bcd8c2350e3b882a4e756473651d57)
 - **Free to Use**: The miner builder is open-source and available at no cost.
 - **Custom Configuration**: Users must create their own xmrrig configuration.
