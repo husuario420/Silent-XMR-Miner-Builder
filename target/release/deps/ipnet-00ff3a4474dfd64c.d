@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\GitHub\Silent-XMR-Miner-Builder\target\release\deps\libipnet-00ff3a4474dfd64c.rmeta: C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\lib.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\ipext.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\ipnet.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\parser.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\mask.rs
+
+C:\Users\admin\Documents\GitHub\Silent-XMR-Miner-Builder\target\release\deps\libipnet-00ff3a4474dfd64c.rlib: C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\lib.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\ipext.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\ipnet.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\parser.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\mask.rs
+
+C:\Users\admin\Documents\GitHub\Silent-XMR-Miner-Builder\target\release\deps\ipnet-00ff3a4474dfd64c.d: C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\lib.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\ipext.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\ipnet.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\parser.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\mask.rs
+
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\lib.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\ipext.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\ipnet.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\parser.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.10.1\src\mask.rs:
