@@ -1,5 +1,5 @@
 [package]
-name = "your_project_name"  # Replace with your project name
+name = "WindowsUpdater"  # Replace with your project name
 version = "0.1.0"
 edition = "2021"
 
